@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    font-weight: bolder;
+}
+.container h2{
+    margin: auto;
+}
+
+h2{
+    color: aqua;
+    font-size: 30;
+}
+body{
+    background-color: brown;
+}
